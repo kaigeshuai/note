@@ -1,3 +1,3 @@
 # note
 笔试
-fdafafafaffafadfadfafafaf试试看
+居中对齐
